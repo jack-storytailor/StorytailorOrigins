@@ -141,10 +141,10 @@
 *Сторипоинты
 
 ## Ссылка на инструкцию
-*ссылка("https:\//github.com/freewebtime/storyscriptOrigins/blob/master/Instruction.md", "Инструкция");
+*ссылкаЛокал("Instruction.md", "Инструкция");
 
 ##  
-[Сидоренко Евгений](https:\//www.facebook.com/evgeny.sydorenko), февраль 2019
+*ссылка("https://www.facebook.com/evgeny.sydorenko", "Сидоренко Евгений");, февраль 2019
 
 ## 28.03.2019 Внимание, Переезд проекта!
 В связи с реорганизацией проекта, в ближайшие несколько дней storyscript и vscode плагин будут переименованы и перезалиты в сеть под новыми именами. 
