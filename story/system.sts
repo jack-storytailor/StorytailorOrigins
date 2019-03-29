@@ -1,0 +1,23 @@
+* ссылка = function (@урл, @текст) {
+  return "[*@текст;](*@урл;)";
+}
+
+* ссылкаБлог = function (@урл, @текст, @урлРут) {
+  if (!@урлРут) {
+    @урлРут = "https://freewebtime.blogspot.com/";
+  }
+  return "[*@текст;](*@урлРут;*@урл;)";
+}
+* ссылкаЛокал = function (@урл, @текст, @урлРут) {
+  if (!@урлРут) {
+    @урлРут = "https://github.com/freewebtime/storyscriptOrigins/blob/master/";
+  }
+  return "[*@текст;](*@урлРут;*@урл;)";
+}
+
+* фото = function (@урл, @текст, @imgRoot) {
+  if (!@imgRoot) {
+    @imgRoot = "https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/";
+  }
+  return "![*@текст;](*@imgRoot;*@урл;)";
+}
