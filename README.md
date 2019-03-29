@@ -88,7 +88,7 @@
 Два дня назад я закончил второй этап разработки языка: тот уже не урезанный. Полный по Тьюрингу.  
 В нем реализовано еще пока далеко не все, что я хочу туда добавить, но то, что уже готово - работает, и им можно пользоваться.
 ## Хозяин двух миров
-Для того, чтобы писать на Storytailor, не нужно быть программистом. Нужно просто писать текст своей истории, как и раньше. Просто в этот текст теперь можно добавить спец-символы, которые его "оживят" ([Инструкция](https://github.com/freewebtime/storyscriptOrigins/blob/master/Instruction.md)).
+Для того, чтобы писать на Storytailor, не нужно быть программистом. Нужно просто писать текст своей истории, как и раньше. Просто в этот текст теперь можно добавить спец-символы, которые его "оживят" ([Инструкция](https://github.com/jack-storytailor/StorytailorOrigins/blob/master/Instruction.md)).
 
 Storytailor бесплатный. Открытый исходный код на [Гитхабе](https://github.com/jack-storytailor/storytailor). 
 Чтобы им воспользоваться, нужно установить бесплатный "продвинутый блокнот" [Microsoft Visual Studio Code](https://code.visualstudio.com/). И там, в этом блокноте, выбрать из списка доступных плагинов [storytailor-vscode](https://marketplace.visualstudio.com/items?itemName=jackstorytailor.storytailor-vscode) Если она у вас уже стоит, и устанавливали вы ее очень давно, и у вас Windows, то рекоммендую обновить [Node.js](https://nodejs.org/en/) до последней версии.
@@ -99,7 +99,7 @@ Storytailor бесплатный. Открытый исходный код на 
 
 
 ## Ссылка на инструкцию
-[Инструкция](https://github.com/freewebtime/storyscriptOrigins/blob/master/Instruction.md)
+[Инструкция](https://github.com/jack-storytailor/StorytailorOrigins/blob/master/Instruction.md)
 
 ##  
 [Сидоренко Евгений](https://www.facebook.com/evgeny.sydorenko), февраль 2019

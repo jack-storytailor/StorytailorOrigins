@@ -15,7 +15,7 @@ __context['ссылкаБлог'] = function (урл, текст, урлРут) 
 };
 __context['ссылкаЛокал'] = function (урл, текст, урлРут) {
     if (!урлРут) {
-        урлРут = `https://github.com/freewebtime/storyscriptOrigins/blob/master/`;
+        урлРут = `https://github.com/jack-storytailor/StorytailorOrigins/blob/master/`;
     }
     ;
     return `[${__serializer.serialize(текст, '\r\n')}](${__serializer.serialize(урлРут, '\r\n')}${__serializer.serialize(урл, '\r\n')})`;
