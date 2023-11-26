@@ -1,4 +1,4 @@
-let __env = require(`\.\.\\src/environment`);
+let __env = require(`\.\./src/environment`);
 let __context = { __text: [] };
 let __serializer = __env.getSerializer();
 
@@ -271,4 +271,6 @@ __context['__text'] = [...__context['__text'], `${__serializer.serialize( __cont
 
 
 // INFO: this trick is for making this file node module
-module.exports = __context;
+Object.assign(module.exports, __context);
+
+//# sourceMappingURL=/Users/jack/Documents/SEA/Git/StorytailorOrigins/out/index.js.map

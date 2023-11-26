@@ -1,4 +1,4 @@
-let __env = require(`\.\.\\src/environment`);
+let __env = require(`\.\./src/environment`);
 let __context = { __text: [] };
 let __serializer = __env.getSerializer();
 
@@ -26,4 +26,6 @@ return `![${__serializer.serialize( текст, '\r\n' )}](${__serializer.serial
 
 
 // INFO: this trick is for making this file node module
-module.exports = __context;
+Object.assign(module.exports, __context);
+
+//# sourceMappingURL=/Users/jack/Documents/SEA/Git/StorytailorOrigins/out/system.js.map
