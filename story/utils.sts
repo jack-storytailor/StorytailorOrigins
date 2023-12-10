@@ -1,0 +1,24 @@
+* ref = function (url, text) @{
+  return "[*text;](*url;)";
+}
+* ref_blog = function (url, text, urlRoot) @{
+  if (!urlRoot) {
+    urlRoot = "https://freewebtime.blogspot.com/";
+  }
+  return "[*text;](*urlRoot;*url;)";
+}
+* ref_local = function (url, text, urlRoot) @{
+  if (!urlRoot) {
+    urlRoot = "https://github.com/jack-storytailor/StorytailorOrigins/blob/master/";
+  }
+  return "[*text;](*urlRoot;*url;)";
+}
+* image = function (url, text, imgRoot) @{
+  if (!imgRoot) {
+    imgRoot = "https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/";
+  }
+  return "![*text;](*imgRoot;*url;)";
+}
+* header = function (headerIndex, headerContent) @{
+	return "*"#".repeat(headerIndex); *headerContent;"
+}

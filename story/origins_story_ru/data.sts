@@ -1,0 +1,32 @@
+* Story Title = "StoryTailor. Истоки"
+
+* Versions
+	* Rus = "README_RU.md"
+	* En = "README.md"
+
+* Chapter Names = [
+	"Логлайн",
+	"Обычный мир",
+	"Чужак в своем мире",
+	"Зов приключений",
+	"Отказ от зова",
+	"Наставник",
+	"Начало пути",
+	"Союзник",
+	"Точка смерти",
+	"Обретение меча",
+	"Сражение с чудовищем",
+	"Возвращение с победой",
+	"Хозяин двух миров"
+]
+
+* Chapters Count = Chapter Names.length
+
+* Chapter Source Files = []
+
+* @{
+	for (let chapterIndex = 0; chapterIndex < Chapters Count; chapterIndex++) {
+		const chapterSourceFile = "chapter*chapterIndex;";
+		Chapter Source Files.push(chapterSourceFile);
+	}
+}

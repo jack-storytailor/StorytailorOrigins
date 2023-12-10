@@ -1,0 +1,10 @@
+* import in utils from "../utils"
+//
+Для того, чтобы писать на Storytailor, не нужно быть программистом. Нужно просто писать текст своей истории, как и раньше. Просто в этот текст теперь можно добавить спец-символы, которые его "оживят" (*ref_local("Instruction.md", "Инструкция");).
+
+Storytailor бесплатный. Открытый исходный код на *ref("https://github.com/jack-storytailor/storytailor", "Гитхабе");. 
+Чтобы им воспользоваться, нужно установить бесплатный "продвинутый блокнот" *ref("https://code.visualstudio.com/", "Microsoft Visual Studio Code");. И там, в этом блокноте, выбрать из списка доступных плагинов *ref("https://marketplace.visualstudio.com/items?itemName=jackstorytailor.storytailor-vscode", "storytailor-vscode"); Если она у вас уже стоит, и устанавливали вы ее очень давно, и у вас Windows, то рекоммендую обновить *ref("https://nodejs.org/en/", "Node.js"); до последней версии.
+
+*image("install_extension.png", "Установка плагина");
+
+Я прошел программирование. Теперь я хочу в кино

@@ -1,0 +1,32 @@
+* Story Title = "StoryTailor. Origins"
+
+* Versions
+	* Rus = "README_RU.md"
+	* En = "README.md"
+
+* Chapter Names = [
+	"Logline",
+	"Ordinary World",
+	"Stranger in Their Own World",
+	"Call to Adventure",
+	"Refusal of the Call",
+	"Mentor",
+	"Beginning of the Journey",
+	"Ally",
+	"Point of Death",
+	"Acquisition of the Sword",
+	"Battle with the Monster",
+	"Return with Victory",
+	"Master of Two Worlds"
+]
+
+* Chapters Count = Chapter Names.length
+
+* Chapter Source Files = []
+
+* @{
+	for (let chapterIndex = 0; chapterIndex < Chapters Count; chapterIndex++) {
+		const chapterSourceFile = "chapter*chapterIndex;";
+		Chapter Source Files.push(chapterSourceFile);
+	}
+}

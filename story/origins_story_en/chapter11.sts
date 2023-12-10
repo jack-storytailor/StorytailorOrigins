@@ -1,0 +1,7 @@
+* import in utils from "../utils"
+//
+As you understand, this text that you are now reading, I am writing in Storytailor.
+
+*image("writing_on_storyscript.png", "I am writing in Storytailor");
+
+Two days ago, I completed the second stage of the language development: the full, Turing-complete version. It still doesn't have everything I want to add to it, but what is already done works, and it can be used.

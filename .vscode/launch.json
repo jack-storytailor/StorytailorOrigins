@@ -35,6 +35,13 @@
       "outFiles": [
         "${workspaceRoot}/out/**/*.js"
       ]
-    }
+    },
+	{
+		"name": "launch current file",
+		"type": "node",
+		"request": "launch",
+		"sourceMaps": false,
+		"program": "${file}"
+	}
   ]
 }

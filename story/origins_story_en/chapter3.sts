@@ -1,0 +1,8 @@
+* import in utils from "../utils"
+//
+I wrote my first story even before I went to school. Since then, wherever I have been, whatever I have been doing, I have always been writing. In fact, I know only one period when I didn't write anything - when I was married, but that's a completely different story.
+
+I have a *ref_blog("index.html", "blog-portfolio"); where I publish my stories. 
+In 2013, I published a book called "*ref_blog("2012/06/blog-post12.html", "Crazy Vacation");". And even though the print run was only 50 copies and it was printed with my own money, still - when you hold your own book in your hands, everything you've done gains meaning.
+
+*image("book.jpg", "Crazy Vacation");

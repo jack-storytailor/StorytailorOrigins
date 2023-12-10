@@ -1,0 +1,24 @@
+* import @utils from "./utils"
+* Story Language = "ru"
+* Chapter Folders = "origins_story_*Story Language;"
+* import in data from "./*Chapter Folders;/data"
+//
+*@utils.header(1, Story Title); 
+(Русская версия | *@utils.ref_local("*Versions.En;", "English version");)
+
+* @{
+	for (let chapterIndex = 0; chapterIndex < Chapters Count; chapterIndex++) {
+		const chapterName = Chapter Names[chapterIndex];
+		const chapterSourceFile = Chapter Source Files[chapterIndex];
+		const chapterContent = require("./*Chapter Folders;/*chapterSourceFile;");
+
+		// chapter name
+		__text.push("*utils.header(2, chapterName);")
+
+		// chapter content
+		__text.push("*chapterContent;");
+
+		// endline
+		__text.push("");
+	}
+}

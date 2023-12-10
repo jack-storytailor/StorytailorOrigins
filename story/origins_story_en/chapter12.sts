@@ -1,0 +1,10 @@
+* import in utils from "../utils"
+//
+To write in Storytailor, you don't need to be a programmer. You just need to write the text of your story as before. Just now, you can add special symbols to this text that will 'bring it to life' (*ref_local("Instruction.md", "Instruction");).
+
+Storytailor is free. Open source on *ref("https://github.com/jack-storytailor/storytailor", "Github");.
+To use it, you need to install the free 'advanced notepad' *ref("https://code.visualstudio.com/", "Microsoft Visual Studio Code");. And there, in this notepad, choose '*ref("https://marketplace.visualstudio.com/items?itemName=jackstorytailor.storytailor-vscode", "storytailor-vscode");' from the list of available plugins. If you already have *ref("https://nodejs.org/en/", "Node.js"); installed on Windows, I recommend updating it to the latest version.
+
+*image("install_extension.png", "Plugin Installation");
+
+I have completed programming. Now I want to go into cinema.

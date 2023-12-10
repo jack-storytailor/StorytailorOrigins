@@ -1,105 +1,98 @@
-# Логлайн
-Программист, всю жизнь мечтавший стать сценаристом, на пятнадцатом году карьеры бросил работу, написал свой собственный язык программирования и теперь пишет на нем сценарии
+# StoryTailor. Origins 
+(English version | [Русская версия](https://github.com/jack-storytailor/StorytailorOrigins/blob/master/README_RU.md))
 
-![персонажи](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/storyscript_showcase.png)
+## Logline
+A programmer, who had dreamed all his life of becoming a screenwriter, quit his job in the fifteenth year of his career, wrote his own programming language, and now writes scripts using it.
 
-## Обычный мир  
-Все хотят стать программистами и жалеют, что ими не стали
-## Я - чужак в своем мире  
-Я с ранних лет хотел писать книги. 
-Но 15 лет назад стал программистом, и 15 лет мечтаю сменить профессию.
+## Ordinary World
+Everyone wants to become programmers and regrets not having become one.
 
-## Зов приключений
-Свой первый рассказ я написал еще до того, как пошел в школу. С тех пор, где бы я ни был, чем бы ни занимался, я всегда пишу. Я вообще знаю всего один период, когда я ничего не писал - когда был женат, но это совсем другая история.
- 
-У меня есть [блог-портфелио](https://freewebtime.blogspot.com/index.html), где я публикую свои рассказы. 
-А в 2013 году я издал книгу [Сумасшедший отпуск](https://freewebtime.blogspot.com/2012/06/blog-post12.html). И даже не смотря на то, что тираж был всего 50 экземпляров, и печатался он на мои деньги, все равно - когда в руках твоя собственная книга, все сделанное обретает смысл.
+## Stranger in Their Own World
+From an early age, I wanted to write books. But 15 years ago, I became a programmer, and for 15 years I've been dreaming of changing my profession.
 
-![Сумасшедший отпуск](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/book.jpg)
+## Call to Adventure
+I wrote my first story even before I went to school. Since then, wherever I have been, whatever I have been doing, I have always been writing. In fact, I know only one period when I didn't write anything - when I was married, but that's a completely different story.
 
-## Отказ от Зова
-Я хотел писать книги, но понятия не имел, как на этом заработать. 
-Поэтому я писал программы. С ними проще - сплошная математика, и платят так, будто сами этого написать не могут.
-С другой стороны, и не пожалуешься - хотел писать? - ну вот, пиши. Программисты пишут на порядок больше текста, чем любой драматург или копирайтер. 
+I have a [blog-portfolio](https://freewebtime.blogspot.com/index.html) where I publish my stories. 
+In 2013, I published a book called "[Crazy Vacation](https://freewebtime.blogspot.com/2012/06/blog-post12.html)". And even though the print run was only 50 copies and it was printed with my own money, still - when you hold your own book in your hands, everything you've done gains meaning.
+
+![Crazy Vacation](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/book.jpg)
+
+## Refusal of the Call
+I wanted to write books, but I had no idea how to make money from it. So, I wrote programs. It's simpler with them - pure mathematics, and they pay as if they can't write it themselves. 
+On the other hand, you can't complain - wanted to write? Well, there you go, write. Programmers write an order of magnitude more text than any playwright or copywriter.
 
 ![Программирование](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/programming.png)
 
-## Наставник
-Через пару лет мой знакомый и очень начинающий режиссер попросил меня сыграть в его коротком метре. Я попал на съемочную площадку. 
-Съемки были адом. Режиссер постоянно ругался со всеми, кого только мог достать, сценарий был ужасный, а на работе приходилось брать отпуск за свой счет, и каждый день съемок обходился мне в $300 вычтенной зарплаты. И не смотря на все проблемы вместе взятые, это был потрясающий опыт. 
-Я понял, что не могу без кино. 
-Тогда мне казалось, что когда у меня будет свой проект, я не повторю ошибок моего знакомого режиссера. "Ну, это же, по-любому, не сложнее, чем быть тимлидом и продуктовнером на продакшене"©. 
+## Mentor
+A couple of years later, an acquaintance of mine, a very novice director, asked me to act in his short film. I ended up on the set. 
+The shooting was hell. The director constantly argued with everyone he could reach, the script was terrible, and I had to take unpaid leave from work, with each day of shooting costing me $300 in lost salary. And despite all the problems combined, it was an amazing experience. 
+I realized that I couldn't live without cinema. 
+At that time, I thought that when I have my own project, I won't repeat the mistakes of my acquaintance, the director. 'Well, it's got to be no harder than being a team leader and product owner on production'©.
 
-## Начало пути
-Я уволился с работы и пререстал быть программистом. И еще развелся, но это другая история.
-Я подумал - нужно просто писать сценарии. Много. Так много, чтобы хватило научиться. Я поясню: хороший программист может написать любую программу тогда, когда надо. И без вдохновения (хотя, оно очень помогает). А значит, и писателем я буду тогда, когда смогу точно так же писать сюжеты. Просто пользуясь навыками.
+## Beginning of the Journey
+I quit my job and stopped being a programmer. And got divorced too, but that's another story. 
+I thought - I just need to write scripts. A lot. So much so that it would be enough to learn. I'll explain: a good programmer can write any program when needed. And without inspiration (although it helps a lot). So, I'll be a writer when I can write stories in exactly the same way. Just using skills.
 
-## Союзник
-А тем временем я думал подработать актером. Для этого нужен шоурил, и я решил снять его дома, в квартире. Я выписал сцены, которые нужно будет отснять, и понял, что их можно объединить в сюжет. Так родился сценарий [Взаперти](https://freewebtime.blogspot.com/2017/09/blog-post.html), где всего два персонажа (один из них - в эпизодах), одна локация и стандартная блокбастерная структура. 
- 
-Это история о Водителе грабителей банков, который в день ограбления просыпается в квартире любовницы, врет подельникам, что он не проспал, он уже к ним едет, и обнаруживает, что любовница ушла на работу, дверь заперла, ключей ему не оставила, а ограбление банка, с которого он должен забрать своих грабителей, уже началось.
+## Ally
+Meanwhile, I thought about working part-time as an actor. For this, I needed a showreel, and I decided to shoot it at home, in my apartment. I listed the scenes that needed to be shot and realized that they could be combined into a plot. This is how the script for "[Locked In](https://freewebtime.blogspot.com/2017/09/blog-post.html)" was born, featuring just two characters (one in episodes), one location, and a standard blockbuster structure.
 
-Внезапно сами собой нашлись люди, с которыми это все можно было снять. Мы утрясли организацию, я вложил туда все деньги, что у меня оставались, и мы приступили.
-## Точка смерти
-Мы сняли фильм, и он провалился до проката, на монтаже. Как режиссер, я совершил все ошибки, на какие хватило сил, и остался у разбитого корыта.
-А потом рухнула и вся оставшаяся жизнь. От работы до спины.
+It's the story of a bank robbers' driver who wakes up in his mistress's apartment on the day of the robbery, lies to his accomplices that he didn't oversleep and is already on his way to them, and discovers that his mistress has gone to work, locked the door, left no keys for him, and the bank robbery, from which he was supposed to pick up his robbers, has already begun.
 
-## Обретение меча
-Все, что мне оставалось - это писать, писать и писать. Уже не пытаться заработать, а просто учиться новому ремеслу.
-Я сел работать и только теперь признал, что у меня нет инструментов. Вообще. У программистов есть Visual Studio, у художников Photoshop, а у 3d-шников - 3ds max, а у сценариста что? Блокнот? Вот тут я понял, что столкнулся с самой сложной задачей. У меня не было инструмента. 
-Как я понял, сценаристы работают на чем придется. Безусловно, есть куча программ, которые позволяют отформатировать текст (вроде Microsoft Word, Amazon Storywrtiter, КИТ Сценарист или Truby Writers Studio), но я не нашел ни одной, дающей возможность текст компоновать и генерировать. 
+Suddenly, I found people with whom all this could be filmed. We sorted out the organization, I invested all the remaining money I had, and we got started.
 
-Например, что делать, если сценарий готов, а продюсер просит переименовать персонажа? Нужно прочесать весь текст сценария и везде попереименовывать? Программист просто выписал бы имена персонажей в отдельный список и подставлял бы их в текст по имени из того списка. И если нужно кого переименовать - вот там, в том списке и переименует. И все, весь остальной текст моментально подхватил бы изменения.
+## Point of Death
+We made the film, and it failed before distribution, in the editing stage. As a director, I made all the mistakes I could muster, and ended up with nothing. Then my entire remaining life collapsed, from work to back.
 
-Вот, например, список с персонажами: 
+## Acquisition of the Sword
+All that was left for me was to write, write, and write. Not to try to earn money anymore, but just to learn a new craft. I sat down to work and only then realized that I had no tools. None at all. Programmers have Visual Studio, artists have Photoshop, and 3D artists have 3ds Max, but what about a screenwriter? A notepad? That's when I realized that I was facing the most difficult task. I had no tool. As I understood, screenwriters work with whatever is at hand. Of course, there are plenty of programs that allow you to format text (like Microsoft Word, Amazon Storywriter, Script Kit, or Truby Writers Studio), but I didn't find any that allowed for the assembly and generation of text.
 
-![персонажи](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/characters.png)
+For example, what if the script is ready, but the producer asks to rename a character? Do you need to comb through the entire script and rename everywhere? A programmer would simply have written the names of the characters in a separate list and inserted them into the text by name from that list. And if you need to rename someone - there, in that list, and rename. And that's it, the rest of the text would immediately pick up the changes.
 
-А вот его элементы вставлены в текст:
+Here, for example, is a list of characters:
 
-![ссылка](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/references.png) 
+![characters](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/characters.png)
 
-Или другой пример. Допустим, действие первого акта происходит в 2003 году, а второго акта - через 19 лет, т.е. в 2022. И вот сценарий написан, и эти цифры там в тексте есть. 
-Опять что-то случилось, и нужно сдвинуть действие первого акта на, скажем, 1968 год. Второй акт должен автоматически переписаться, чтобы разница во времени между ними оставалась те же 19 лет. Т.е. уже в 1987 году.
+And here are its elements inserted into the text:
 
-![расчеты](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/calculations.png)
+![references](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/references.png) 
+Or another example. Suppose the action of the first act takes place in 2003 year, and the second act - 19 years later, i.e., in 2022. And now the script is written, and these numbers are there in the text.
+Again, something happened, and the action of the first act needs to be shifted to, say, 1968 year. The second act should automatically rewrite itself so that the time difference between them remains the same 19 years. That is, already in 1987 year.
 
-Или, например, а что если это сценарий к компьютерной игре, а там много разных вариантов развития событий в зависимости от того, что, например, делает игрок. Т.е. мы хотим, чтобы в случае, если персонаж ранен к третьему акту, то тогда по сюжету он проигрывает бой, а если не ранен - то выигрывает. И есть разные концовки на оба случая, и выбирается одна из них автоматически. Автор описал бы обе и как-нибудь объяснил программе, какую из них выбрать. 
+![calculations](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/calculations.png)
 
-![выбор концовки](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/choose_screenplay_end.png)
+Or, for example, what if this is a script for a computer game, where there are many different scenarios depending on, for example, what the player does. That is, we want that if the character is injured by the third act, then he loses the fight according to the plot, but if not injured - then he wins. And there are different endings for both cases, and one of them is chosen automatically. The author would describe both and somehow explain to the program which one to choose.
 
-Для программиста это звучит обычно. А сценарист вообще, как правило, не в курсе, что так можно было.
-Ну, можно было бы. Если бы сценаристы были программистами, и у них был бы какой-то такой простой язык программирования, в котором можно было бы сделать то, что я описал.
+![Ending Selection](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/choose_screenplay_end.png)
 
-Вот было бы классно, думал я, если б такой язык программирования бы был. Но его не было. 
- 
-И тогда я понял: чтобы перестать быть программистом, нужно написать свой собственный язык программирования.
-## Сражение с чудовищем
-![Сражение с чудовищем](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/writing_on_typescript.png)
-И вот я, человек, который твердо решил никогда больше не программировать, месяцами, иногда заплывами по нескольку бессонных суток подряд, фигачил этот язык программирования, постоянно напоминая себе, что я - псих.  
-Так не делают. Если хочешь сменить профессию - меняй. А я, выходит, сменил ее только на словах. 
-Более того, я еще и писал на javascript, а это тот язык, которого я практически не знал (я больше по серверам или десктопам, а в последние годы - вообще только Unity3d), т.е. пришлось еще и дополнительно js изучить, а это новые потери времени.
+For a programmer, this sounds usual. But screenwriters, as a rule, are not aware that this could be done.
+Well, it could be done. If screenwriters were programmers, and they had some simple programming language in which they could do what I described.
 
-К середине прошедшего лета (2018) у меня была готова самая первая версия. Сильно урезанная, но это был полноценный, рабочий концепт. Язык программирования для сборки текстов. Он называется Storytailor (Стори-тэйлор, это игра слов: от английского История и Ткач). До нового года я его тестировал, как пользователь, т.е. как сценарист, а не программист. Когда у меня уже был список фич, которых не хватает, я снова сел программировать.
+It would be cool, I thought, if such a programming language existed. But there wasn't one.
 
-## Возвращение с победой
-Как вы понимаете, этот текст, который вы сейчас читаете, я пишу на Storytailor.
-![этот текст я пишу на Storytailor](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/writing_on_storyscript.png)
-Два дня назад я закончил второй этап разработки языка: тот уже не урезанный. Полный по Тьюрингу.  
-В нем реализовано еще пока далеко не все, что я хочу туда добавить, но то, что уже готово - работает, и им можно пользоваться.
-## Хозяин двух миров
-Для того, чтобы писать на Storytailor, не нужно быть программистом. Нужно просто писать текст своей истории, как и раньше. Просто в этот текст теперь можно добавить спец-символы, которые его "оживят" ([Инструкция](https://github.com/jack-storytailor/StorytailorOrigins/blob/master/Instruction.md)).
+And then I realized: to stop being a programmer, I needed to write my own programming language.
 
-Storytailor бесплатный. Открытый исходный код на [Гитхабе](https://github.com/jack-storytailor/storytailor). 
-Чтобы им воспользоваться, нужно установить бесплатный "продвинутый блокнот" [Microsoft Visual Studio Code](https://code.visualstudio.com/). И там, в этом блокноте, выбрать из списка доступных плагинов [storytailor-vscode](https://marketplace.visualstudio.com/items?itemName=jackstorytailor.storytailor-vscode) Если она у вас уже стоит, и устанавливали вы ее очень давно, и у вас Windows, то рекоммендую обновить [Node.js](https://nodejs.org/en/) до последней версии.
+## Battle with the Monster
+![Battle with the Monster](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/writing_on_typescript.png)
+And so here I was, a person who had firmly decided never to program again, spending months, sometimes several sleepless days in a row, hammering out this programming language, constantly reminding myself that I was crazy.
+This is not how it's done. If you want to change professions - change it. And I, it turns out, only changed it in words.
+Moreover, I was writing in JavaScript, a language I hardly knew (I was more into servers or desktops, and in recent years - only Unity3D), so I had to learn JavaScript additionally, which meant more time lost.
 
-![Установка плагина](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/install_extension.png)
+By the middle of last summer (2018), I had the first version ready. It was severely cut down, but it was a fully functional, working concept. A programming language for assembling texts. It's called Storytailor (a play on words from the English 'story' and 'tailor'). Until the new year, I tested it as a user, i.e., as a screenwriter, not a programmer. When I already had a list of features that were missing, I sat down to program again.
 
-Я прошел программирование. Теперь я хочу в кино
+## Return with Victory
+As you understand, this text that you are now reading, I am writing in Storytailor.
 
+![I am writing in Storytailor](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/writing_on_storyscript.png)
 
-## Ссылка на инструкцию
-[Инструкция](https://github.com/jack-storytailor/StorytailorOrigins/blob/master/Instruction.md)
+Two days ago, I completed the second stage of the language development: the full, Turing-complete version. It still doesn't have everything I want to add to it, but what is already done works, and it can be used.
 
-##  
-[Сидоренко Евгений](https://www.facebook.com/evgeny.sydorenko), февраль 2019
+## Master of Two Worlds
+To write in Storytailor, you don't need to be a programmer. You just need to write the text of your story as before. Just now, you can add special symbols to this text that will 'bring it to life' ([Instruction](https://github.com/jack-storytailor/StorytailorOrigins/blob/master/Instruction.md)).
+
+Storytailor is free. Open source on [Github](https://github.com/jack-storytailor/storytailor).
+To use it, you need to install the free 'advanced notepad' [Microsoft Visual Studio Code](https://code.visualstudio.com/). And there, in this notepad, choose '[storytailor-vscode](https://marketplace.visualstudio.com/items?itemName=jackstorytailor.storytailor-vscode)' from the list of available plugins. If you already have [Node.js](https://nodejs.org/en/) installed on Windows, I recommend updating it to the latest version.
+
+![Plugin Installation](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/install_extension.png)
+
+I have completed programming. Now I want to go into cinema.
