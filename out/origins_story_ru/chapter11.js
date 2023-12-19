@@ -4,7 +4,7 @@ let __context = { __text };
 let __serializer = __env.getSerializer();
 
 __context.utils = require(`../utils`);
-__context = { ...__context.utils, ...__context };
+__context = { ...__context, ...__context.utils, __text };
 __context.__text.push(`Как вы понимаете, этот текст, который вы сейчас читаете, я пишу на Storytailor.`);
 __context.__text.push(``);
 __context.__text.push(`${__serializer.serialize( __context.image(`writing_on_storyscript.png`, `этот текст я пишу на Storytailor`), '\r\n' )}`);

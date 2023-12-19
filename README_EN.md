@@ -2,7 +2,7 @@
 (English version | [Русская версия](https://github.com/jack-storytailor/StorytailorOrigins/blob/master/README_RU.md))
 
 ## Logline
-A programmer, who had dreamed all his life of becoming a screenwriter, quit his job in the fifteenth year of his career, wrote his own programming language, and now writes scripts using it.
+A programmer, who had dreamed all his life of becoming a screenwriter, quit his job in the fifteenth year of his career, wrote his own programming language, and now writes screenplays using it.
 
 ## Ordinary World
 Everyone wants to become programmers and regrets not having become one.
@@ -74,11 +74,12 @@ And then I realized: to stop being a programmer, I needed to write my own progra
 
 ## Battle with the Monster
 ![Battle with the Monster](https://raw.githubusercontent.com/jack-storytailor/StorytailorOrigins/master/resources/writing_on_typescript.png)
+
 And so here I was, a person who had firmly decided never to program again, spending months, sometimes several sleepless days in a row, hammering out this programming language, constantly reminding myself that I was crazy.
 This is not how it's done. If you want to change professions - change it. And I, it turns out, only changed it in words.
 Moreover, I was writing in JavaScript, a language I hardly knew (I was more into servers or desktops, and in recent years - only Unity3D), so I had to learn JavaScript additionally, which meant more time lost.
 
-By the middle of last summer (2018), I had the first version ready. It was severely cut down, but it was a fully functional, working concept. A programming language for assembling texts. It's called Storytailor (a play on words from the English 'story' and 'tailor'). Until the new year, I tested it as a user, i.e., as a screenwriter, not a programmer. When I already had a list of features that were missing, I sat down to program again.
+By the middle of last summer (2018), I had the first version ready. It was severely cut down, but it was a fully functional, working concept. A programming language for assembling texts. It's called Storytailor. Until the new year, I tested it as a user, i.e., as a screenwriter, not a programmer. When I already had a list of features that were missing, I sat down to program again.
 
 ## Return with Victory
 As you understand, this text that you are now reading, I am writing in Storytailor.

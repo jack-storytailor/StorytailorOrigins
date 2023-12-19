@@ -4,7 +4,7 @@ let __context = { __text };
 let __serializer = __env.getSerializer();
 
 __context.utils = require(`./utils`);
-__context = { ...__context.utils, ...__context };
+__context = { ...__context, ...__context.utils, __text };
 __context.__text.push(`# Storytailor. Инструкция`);
 __context.__text.push(`${__serializer.serialize( __context.ref(`https://github.com/jack-storytailor/StorytailorOrigins/blob/master/README.md`, `Презентация storytailor`), '\r\n' )}`);
 __context.__text.push(``);

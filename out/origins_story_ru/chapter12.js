@@ -4,7 +4,7 @@ let __context = { __text };
 let __serializer = __env.getSerializer();
 
 __context.utils = require(`../utils`);
-__context = { ...__context.utils, ...__context };
+__context = { ...__context, ...__context.utils, __text };
 __context.__text.push(`Для того, чтобы писать на Storytailor, не нужно быть программистом. Нужно просто писать текст своей истории, как и раньше. Просто в этот текст теперь можно добавить спец-символы, которые его "оживят" (${__serializer.serialize( __context.ref_local(`Instruction.md`, `Инструкция`), '\r\n' )}).`);
 __context.__text.push(``);
 __context.__text.push(`Storytailor бесплатный. Открытый исходный код на ${__serializer.serialize( __context.ref(`https://github.com/jack-storytailor/storytailor`, `Гитхабе`), '\r\n' )}. `);

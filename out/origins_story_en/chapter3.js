@@ -4,7 +4,7 @@ let __context = { __text };
 let __serializer = __env.getSerializer();
 
 __context.utils = require(`../utils`);
-__context = { ...__context.utils, ...__context };
+__context = { ...__context, ...__context.utils, __text };
 __context.__text.push(`I wrote my first story even before I went to school. Since then, wherever I have been, whatever I have been doing, I have always been writing. In fact, I know only one period when I didn't write anything - when I was married, but that's a completely different story.`);
 __context.__text.push(``);
 __context.__text.push(`I have a ${__serializer.serialize( __context.ref_blog(`index.html`, `blog-portfolio`), '\r\n' )} where I publish my stories. `);

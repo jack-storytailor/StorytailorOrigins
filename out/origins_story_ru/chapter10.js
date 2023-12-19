@@ -4,7 +4,7 @@ let __context = { __text };
 let __serializer = __env.getSerializer();
 
 __context.utils = require(`../utils`);
-__context = { ...__context.utils, ...__context };
+__context = { ...__context, ...__context.utils, __text };
 __context.__text.push(`${__serializer.serialize( __context.image(`writing_on_typescript.png`, `Сражение с чудовищем`), '\r\n' )}`);
 __context.__text.push(``);
 __context.__text.push(`И вот я, человек, который твердо решил никогда больше не программировать, месяцами, иногда заплывами по нескольку бессонных суток подряд, фигачил этот язык программирования, постоянно напоминая себе, что я - псих.  `);

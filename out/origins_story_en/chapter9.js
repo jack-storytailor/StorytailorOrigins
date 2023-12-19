@@ -4,7 +4,7 @@ let __context = { __text };
 let __serializer = __env.getSerializer();
 
 __context.utils = require(`../utils`);
-__context = { ...__context.utils, ...__context };
+__context = { ...__context, ...__context.utils, __text };
 __context.__text.push(`All that was left for me was to write, write, and write. Not to try to earn money anymore, but just to learn a new craft. I sat down to work and only then realized that I had no tools. None at all. Programmers have Visual Studio, artists have Photoshop, and 3D artists have 3ds Max, but what about a screenwriter? A notepad? That's when I realized that I was facing the most difficult task. I had no tool. As I understood, screenwriters work with whatever is at hand. Of course, there are plenty of programs that allow you to format text (like Microsoft Word, Amazon Storywriter, Script Kit, or Truby Writers Studio), but I didn't find any that allowed for the assembly and generation of text.`);
 __context.__text.push(``);
 __context.__text.push(`For example, what if the script is ready, but the producer asks to rename a character? Do you need to comb through the entire script and rename everywhere? A programmer would simply have written the names of the characters in a separate list and inserted them into the text by name from that list. And if you need to rename someone - there, in that list, and rename. And that's it, the rest of the text would immediately pick up the changes.`);

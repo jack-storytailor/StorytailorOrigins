@@ -7,7 +7,7 @@ utils = require(`./utils`);
 __context[`Story Language`] = `ru`;
 __context[`Chapter Folders`] = `origins_story_${__serializer.serialize( __context[`Story Language`], '\r\n' )}`;
 __context.data = require(`./${__serializer.serialize( __context[`Chapter Folders`], '\r\n' )}/data`);
-__context = { ...__context.data, ...__context };
+__context = { ...__context, ...__context.data, __text };
 __context.__text.push(`${__serializer.serialize( utils.header(1, __context[`Story Title`]), '\r\n' )} `);
 __context.__text.push(`(Русская версия | ${__serializer.serialize( utils.ref_local(`${__serializer.serialize( __context.Versions.En, '\r\n' )}`, `English version`), '\r\n' )})`);
 __context.__text.push(``);
